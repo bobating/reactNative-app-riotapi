@@ -12,12 +12,16 @@ To get started with this app, simply clone the repository and install the depend
 
 npm install
 
+if it doesnt work you can try npm install --force
+
 
 ## Usage
 
 To run the app, use the following command:
 
 npm start
+
+if it doesnt work you can try expo start 
 
 
 ## License
